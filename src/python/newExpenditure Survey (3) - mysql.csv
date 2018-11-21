@@ -1,0 +1,81 @@
+userId,Occupation,Age,Gender,Locality ,Monthly income,clothes (offline),groceries (offline),cosmetics (offline),medicines (offline),"breakfast, lunch or dinner ",Rate your shopping from 1 to 5 (offline),clothes (online),groceries (online),cosmetics (online),medicines (online),food items (online),Rate your shopping from 1 to 5 (online)
+0,Student,21,Male,North Delhi,below 5000,Lakshita,Gabindia,Hecmo,guardian pharmacy,Shahi Naan Wala,5,Amazon,big basket,Amazon,1 mg,Swiggy,5
+1,Student,19,Female,East Delhi,below 5000,Lifestyle,Big bazaar,Big bazaar,Apollo,Manglam,4,Myntra,Flipkart,Flipkart,1 mg,Zomato,5
+2,Student,21,Male,New Delhi,below 5000,Big bazaar,Big bazaar,Big bazaar,Rx Pharmacy,Naivedyam Restaurant,4,Myntra,Amazon,Amazon ,netmeds,Swiggy,4
+3,Student,20,Male,New Delhi,below 5000,Om Parkash Jawahar Lal,more,Clinique,Popular Chemist,AnnaMaya,5,Amazon,big basket,Amazon,netmed,Swiggy,4
+4,Student,22,Female,Punjab,below 5000,"Garg garments , Bhikhi",,"Aggarwal general store, delhi","Shivam medical store, bhikhi","Kapoor kitchen, delhi",4,Amazon,Amazon,Amazon,1 mg,Paytm,4
+5,Student,21,Male,New Delhi,below 5000,Shakuntlam,reliance fresh,Impressions,All India Medicos,Delhi Pavilion,3,Amazon,Amazon,Amazon ,Meri.com,Zomato,5
+6,Student,21,Female,New Delhi,below 5000,Nalli,Krishna Supermarche,M.A.C Cosmetics,Chawla Chemist,Bukhara Restaurant,4,Amazon,big basket,Amazon,Medicare,Grofers,4
+7,Student,22,Male,West Delhi,5000 to 15000,And Store,Big bazaar,Big bazaar,goyal medicos,Themis Barbecue house,5,Amazon,Amazon,Amazon,Amazon,Amazon,5
+8,Student,20,Male,East Delhi,below 5000,Lifestyle,Big bazaar,Big bazaar,Apollo,Manglam,5,Amazon,Amazon,Amazon,netmeds,Zomato,4
+9,Student,20,Male,South Delhi,below 5000,Forever 21,Whole foods ,Hecmo,Chawla Chemist,Whole foods,5,Myntra,Grofers,Myntra,1 mg,Swiggy,4
+10,Student,20,Male,East Delhi,below 5000,Lifestyle,Big bazaar,Big bazaar,Apollo,Manglam,5,Myntra,big basket,naykaa,medicare,Swiggy,4
+11,Student,22,Male,Ghaziabad,below 5000,globus,big bazar,big bazar,nearest hospital,food court mahagun,5,myntra,big basket,Amazon,netmeds,Flipkart,5
+12,Student,22,Female,East Delhi,below 5000,Lifestyle,Big bazaar,Big bazaar,Apollo,Dominos,3,Stackbylove,Bigbasket,Naykaa,Flipkart,Bigbasket,4
+13,Job,46,Female,West Delhi,85000 to 100000,Laaj creation,Buta singh,Nishant medicos,Nishant medicos,NA,4,Myntra,Grofers,Flipkart,1 mg,Swiggy,4
+14,Student,21,Male,West Delhi,5000 to 15000,laaj creation,choice store,NA,Nishant medicos,NA,5,myntra,groffers,myntra,1 mg,Swiggy,5
+15,Student,21,Male,North Delhi,5000 to 15000,Biba,Max,Anjani Nandan Cosmetics,Apollo pharmacy,Evergreen,4,"Jabong,amazon,myntra",groffers,Flipkart,Medlife,Modern bazaar ,4
+16,Student,21,Female,East Delhi,below 5000,Lifestyle,Big bazaar,Big bazaar,Apollo,Manglam,3,Jabong,big basket,Amazon,Medlife,Food Panda,5
+17,Student,20,Male,New Delhi,below 5000,Kidology,Le Marche,Nykaa Luxe,Guardian Pharmacy,Tamra Restaurant,5,Amazon ,more store,Amazon ,1 mg,Zomato,5
+18,Student,21,Male,West Delhi,below 5000,,,,"Chawla medicine, MP market, Pitampura ",,5,"Myntra, AJIO ",Amazon,Amazon,Amazon,Swiggy,4
+19,Student,21,Female,South Delhi,below 5000,Forever 21,Whole foods ,None,Chawla Chemist,Whole foods,4,Amazon,Whole foods,Amazon,netmeds,Whole foods,5
+20,Student,23,Male,West Delhi,below 5000,Max fashions,More,Arihant Cosmetics,Rx pharmacy,Punjabi Angithi,3,Amazon,Amazon,Amazon,Amazon,Zomato,4
+21,Student,20,Male,North Delhi,5000 to 15000,Big bazaar,Reliance fresh,Hecmo,Sai pharmacy,Shahi Naan Wala,4,Amazon,Grofers,Naykaa,Pharmeasy,Swiggy,5
+22,Job,55,Female,West Delhi,55000 to 65000,Goyalsons,Krishna Supermarche,Big bazaar,guardian pharmacy,Themis Barbecue house,3,Amazon,big basket,Amazon,1 mg,Food Panda,4
+23,Student,21,Female,New Delhi,below 5000,Lacoste,Wakaba,Chambor,Life Plus Pharmacy,Masala House,5,Jabong,Amazon,Amazon,netmeds,Zomato,4
+24,Business,24,Female,Faridabad,15000 to 25000,Lajpat nagar market,City market in faridabad,,Pharmacy in sainik colony,Any cafes,4,Myntra,big basket,Amazon,1 mg,Swiggy,5
+25,Job,27,Female,Faridabad,25000 to 35000,Westside,More super market,Local shops,Local,,3,Myntra,groffers,naykaa,medicare,Food Panda,5
+26,Student,21,Male,North Delhi,below 5000,lakshita,Fabindia,Anjani Nandan Cosmetics,goyal medicos,Evergreen,4,Amazon,groffers,Flipkart,netmeds,Zomato,4
+27,Job,57,Female,West Delhi,65000 to 75000,And store,Big bazaar,Arihant Cosmetics,Apollo pharmacy,Punjabi Angithi,5,Myntra,Bigbasket,Amazon,1 mg,Food Panda,5
+28,Student,21,Male,North Delhi,5000 to 15000,Biba,Max Standard Stores,Hecmo,Rx pharmacy,Shahi Naan Wala,5,Amazon and Flipkart,Amazon and Flipkart,Amazon and Flipkart,netmeds,"Zomato ,food panda, swiggy or just Google restaurants no. ",5
+29,Job,50,Female,North Delhi,75000 to 85000,Max fashions,More,Big bazaar,Sai pharmacy,Themis Barbecue house,5,Amazone,Amazone,Amazone,1 mg,Food Panda,4
+30,Job,56,Female,West Delhi,5000 to 15000,Big bazaar,More,Anjani Nandan Cosmetics,guardian pharmacy,Evergreen,5,Myntra,Amazon,Amazon,netmeds,Swiggy,3
+31,Job,22,Male,West Delhi,35000 to 45000,Goyalsons,reliance fresh,Anjani Nandan Cosmetics,goyal medicos,Punjabi Angithi,4,Ajio,Grofers,Flipkart,Medicare,Zomato,5
+32,Student,20,Male,Bihar,5000 to 15000,Yes,Yes,Yes,Yes,Yes,3,Flipkart,Grofers,Amazon,1 mg,Swiggy,2
+33,Student,22,Male,West Delhi,5000 to 15000,lakshita,Fabindia,Arihant Cosmetics,goyal medicos,Shahi Naan Wala,5,Flipkart,Amazon,Myntra,netmeds,Food Panda,4
+34,Student,21,Male,New Delhi,below 5000,Big bazaar,Big bazaar,Big bazaar,Rx Pharmacy,Naivedyam Restaurant,5,Myntra,Grofers,Flipkart,1 mg,Zomato,5
+35,Job,24,Female,Faridabad,15000 to 25000,Lajpat nagar,Reliance fresh,Local shops,Local chemists,Delhi ,4,"Amazon, flipcart, myntra",big basket,Myntra,Medicare,Swiggy,3
+36,Business,69,Prefer not to say,Bihar,above 100000,Tommy,sunday market,savita cosmetics,Jadi butia (herbs),Dinner,3,victoria,big b,fair n lovely,1 mg,Food Panda,2
+37,Student,18,Male,New Delhi,below 5000,Om Parkash Jawahar Lal,more,Clinique,Popular Chemist,AnnaMaya,3,Amazon,big basket,Myntra,Amazon,"Zomato ,food panda, swiggy  ",5
+38,Student,21,Female,New Delhi,below 5000,Shakuntlam,reliance fresh,Impressions,All India Medicos,Delhi Pavilion,4,Myntra,Amazon,Flipkart,1 mg,Swiggy,4
+39,Student,18,Male,North Delhi,below 5000,And store,Big bazaar,Hecmo,Apollo pharmacy,Themis Barbecue house,5,Ajio,Grofers,Myntra,1 mg,Zomato,4
+40,Business,53,Male,West Delhi,35000 to 45000,Biba,Max Standard Stores,Big bazaar,Rx pharmacy,Evergreen,5,Amazon,Flipkart,Flipkart,netmeds,Zomato,5
+41,Student,20,Male,North Delhi,5000 to 15000,Max fashions,More,Anjani Nandan Cosmetics,Sai pharmacy,Punjabi Angithi,4,Amozon,Amazon,Amazon,Parmeasy,Foodpanda swiggy,5
+42,Student,18,Male,West Delhi,below 5000,Big bazaar,reliance fresh,Arihant Cosmetics,guardian pharmacy,Shahi Naan Wala,3,Amazon,Amazon,Amazon,Medicare,Amazon,4
+43,Student,17,Male,North Delhi,below 5000,Goyalsons,Krishna Supermarche,Hecmo,goyal medicos,Themis Barbecue house,4,Myntra,big basket,Myntra,Amazon,Food Panda,3
+44,Business;Job;Student,17,Female,South Delhi,55000 to 65000,Forever 21,Whole foods ,Hecmo,Chawla Chemist,Whole foods,5,Amazon,Grofers,Flipkart,Medicare,Swiggy,3
+45,Student,19,Male,West Delhi,5000 to 15000,lakshita,Fabindia,Big bazaar,Apollo pharmacy,Evergreen,3,Myntra,Flipkart,Amazon,netmeds,Swiggy,2
+46,Student,21,Male,North Delhi,below 5000,And store,Big bazaar,Anjani Nandan Cosmetics,Rx pharmacy,Punjabi Angithi,4,Flipkart,Flipkart,Myntra,Medicare,Swiggy,5
+47,Student,18,Male,New Delhi,below 5000,Nalli,Krishna Supermarche,M.A.C Cosmetics,Chawla Chemist,Bukhara Restaurant,5,Myntra,Amazon,Amazon,Amazon,Amazon,3
+48,Student,19,Male,West Delhi,15000 to 25000,Biba,Max Standard Stores,Arihant Cosmetics,Sai pharmacy,Shahi Naan Wala,4,Amazon,big basket,Flipkart,netmeds,Food Panda,4
+49,Student,25,Male,Gurugram,5000 to 15000,Not fixed,Not fixed,Not fixed,Not fixed,Not fixed,5,Amazon,Grofers,Amazon,1 mg,Zomato,4
+50,Student,20,Male,New Delhi,below 5000,Kidology,Le Marche,Nykaa Luxe,Guardian Pharmacy,Tamra Restaurant,4,Myntra,Flipkart,Amazon,netmeds,"Zomato ,food panda, swiggy  ",5
+51,Business,51,Male,West Delhi,35000 to 45000,Max fashions,More,Hecmo,guardian pharmacy,Themis Barbecue house,5,Flipkart,Grofers,Myntra,netmeds,Food Panda,5
+52,Job,22,Female,North Delhi,15000 to 25000,Big bazaar,reliance fresh,Big bazaar,goyal medicos,Evergreen,4,Myntra,Flipkart,Flipkart,netmeds,Zomato,5
+53,Student,18,Female,West Delhi,below 5000,Goyalsons,Krishna Supermarche,Anjani Nandan Cosmetics,Apollo pharmacy,Punjabi Angithi,5,Ajio,Grofers,Amazon,1 mg,"Zomato ,food panda, swiggy  ",5
+54,Student,20,Male,North Delhi,below 5000,lakshita,Fabindia,Arihant Cosmetics,Rx pharmacy,Shahi Naan Wala,5,Flipkart,Amazon,Amazon,Amazon,Zomato,4
+55,Job,51,Male,West Delhi,above 100000,And store,Big bazaar,Hecmo,Sai pharmacy,Themis Barbecue house,4,myntra,groffers,myntra,1 mg,Swiggy,3
+56,Job,52,Male,Gurugram,above 100000,ansal plaza,amit store,ashish medicos,Ashish medicos,NA,3,amazon,groffers,myntra,1 mg,Swiggy,3
+57,Job,45,Male,North Delhi,65000 to 75000,Biba,Max Standard Stores,Big bazaar,guardian pharmacy,Evergreen,4,Amazon,Flipkart,Flipkart,netmeds,Food Panda,4
+58,Job,53,Male,Hyderabad,above 100000,Shoppers stop and lifestyle,Ratnadeep and D Mart,Local shop,MedPlus,Radisson KFC Dominos McDonald's ,4,flipkart ,Grofers,Amazon,netmeds,"Zomato ,food panda, swiggy  ",5
+59,Student,21,Male,West Delhi,5000 to 15000,Max fashions,More,Anjani Nandan Cosmetics,goyal medicos,Punjabi Angithi,5,Myntra,Flipkart,Myntra,netmeds,"Zomato ,food panda, swiggy  ",3
+60,Student,21,Male,Punjab,5000 to 15000,Jack and Jones mohali,Relaince mohali,Relaince mohali,Viva kharar,Khalsa kharar,3,Myntra,Big basket,Flipkart,Viva,Bigbasket,4
+61,Student,22,Male,West Delhi,5000 to 15000,Big bazaar,reliance fresh,Arihant Cosmetics,Apollo pharmacy,Shahi Naan Wala,4,"Jabong,myntra amazon",Amazon,Myntra,Medlife,Modern bazar,5
+62,Student,21,Female,North Delhi,below 5000,Goyalsons,Krishna Supermarche,Hecmo,Rx pharmacy,Themis Barbecue house,5,Flipkart,Flipkart,Flipkart,Flipkart,Flipkart,4
+63,Student,19,Male,New Delhi,below 5000,Lacoste,Wakaba,Chambor,Life Plus Pharmacy,Masala House,4,Amazon,Grofers,Myntra,1 mg,Zomato,5
+64,Student,18,Male,New Delhi,below 5000,Big bazaar,Big bazaar,Big bazaar,Rx Pharmacy,Naivedyam Restaurant,4,Myntra,big basket,Flipkart,Amazon,Food Panda,5
+65,Student,20,Male,South Delhi,below 5000,D mall,not fixed,amazon,,can't say,4,amazon,Grofers,Amazon,1 mg,Zomato,4
+66,Student,22,Male,UP,below 5000,"Radhika Collections, Modinagar","SK Traders, Modinagar","PK Sinha Cosmatics, Delhi","R L Medicose, Modinagar","Shyam place, Ghaziabad",5,amazon,flipkart,amazon,flipkart,myntra,5
+67,Job,25,Male,Bihar,35000 to 45000,Souh Delhi,Souh delhi,South delhi,South delhi,Souh delhi,5,Amazon,big basket,Myntra,Amazon,Swiggy,5
+68,Student,19,Male,South Delhi,below 5000,Om Parkash Jawahar Lal,more,Clinique,Popular Chemist,AnnaMaya,3,Amazon or Myntra,Grofers,Flipkart,Netmeds,Zomato or Swiggy,3
+69,Student,18,Male,New Delhi,below 5000,Shakuntlam,reliance fresh,Impressions,All India Medicos,Delhi Pavilion,5,Myntra,Big basket,Myntra,Netmeds,Foodpanda and all,4
+70,Student,20,Male,South Delhi,below 5000,"Gurgaon,sadar bazaar","Gurgaon,sadar bazaar",,,Home food only,4,Flipkart,Flipkart,Amazon,Amazon,Food Panda,4
+71,Student,20,Male,New Delhi,below 5000,Nalli,Krishna Supermarche,M.A.C Cosmetics,Chawla Chemist,Bukhara Restaurant,4,Amazon,Grofers,Myntra,netmeds,Swiggy,4
+72,Student,18,Male,South Delhi,5000 to 15000,Kidology,Le Marche,Nykaa Luxe,Guardian Pharmacy,Tamra Restaurant,5,Myntra,big basket,Amazon,netmeds,Zomato,5
+73,Job,28,Male,New Delhi,45000 to 55000,Lacoste,Wakaba,Chambor,Life Plus Pharmacy,Masala House,4,Flipkart,Flipkart,Flipkart,1 mg,Food Panda,4
+74,Job,29,Female,New Delhi,25000 to 35000,Big bazaar,Big bazaar,Big bazaar,Rx Pharmacy,Naivedyam Restaurant,4,Flipkart,Grofers,Amazon,1 mg,Swiggy,4
+75,Job,25,Male,New Delhi,25000 to 35000,Om Parkash Jawahar Lal,more,Clinique,Popular Chemist,AnnaMaya,4,Myntra,Amazon,Myntra,Amazon,Food Panda,4
+76,Student,20,Female,New Delhi,below 5000,Shakuntlam,Wakaba,Nykaa Luxe,All India Medicos,Tamra Restaurant,4,Ajio,Grofers,Flipkart,netmeds,Zomato,4
+77,Job,25,Male,South Delhi,25000 to 35000,Nalli,Le Marche,Chambor,Life Plus Pharmacy,Masala House,4,Myntra,big basket,Amazon,1 mg,Swiggy,3
+78,Job,40,Male,New Delhi,15000 to 25000,Lacoste,Krishna Supermarche,M.A.C Cosmetics,Chawla Chemist,Bukhara Restaurant,3,Amazon,Grofers,Amazon,netmeds,Food Panda,3
+79,Student,21,Male,Ghaziabad,below 5000,,,,,,,bewakoof.com,nill,Amazon,1 mg,Swiggy,3
